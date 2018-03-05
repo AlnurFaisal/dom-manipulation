@@ -1,0 +1,12 @@
+.funky{
+    font-size: 25px;
+    font-weight: 400;
+    background:green;
+    color: white;
+}
+
+.hoverme{
+    font-size: 25px;
+    font-weight: 700;
+    color: red;
+}
